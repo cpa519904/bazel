@@ -1,3 +1,4 @@
+Bazel 是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征
 # [Bazel](https://bazel.build)
 
 *{Fast, Correct} - Choose two*
